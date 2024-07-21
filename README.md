@@ -6,5 +6,4 @@
 ![image](web/image/img_3.png)
 ![image](web/image/img_4.png)
 ![image](web/image/img_5.png)
-![image](web/image/img_6.png)
 
